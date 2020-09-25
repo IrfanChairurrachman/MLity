@@ -1,1 +1,0 @@
-## Membangun Machine Learning dengan Tensorflow (dalam proses)
